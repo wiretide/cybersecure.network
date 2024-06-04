@@ -1,0 +1,201 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #082D49;
+  }
+  
+  
+  /* apply styles to <header> */
+  header {
+    padding: 35px;
+    height: 100px;
+    background-color: #52729F;
+  }
+  c
+  .logo {
+     padding: 0px;
+    }
+  
+  
+  header h1 {
+    font-family: monospace;
+    font-weight: normal;
+    font-size: 28px;
+    color: #B2EBF9;
+    margin: 25px;
+    display: inline;  
+  }
+  
+  header a {
+    text-decoration: none;
+    color: #ffffff;
+  }
+  
+  .button {
+    background-color: #082D49;
+    font-family: monospace;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    }
+  
+    .button:hover {
+      background-color: #031119;
+      font-family: monospace;
+      color: white;
+      padding: 15px 15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 20px;
+      cursor: pointer;
+      border-radius: 50px;
+      margin-left: 650px;
+    }
+    
+    .linkedin {
+      position: absolute;
+      cursor: pointer;
+      margin-left: 70px;
+      margin-top: 3px;
+    }
+    
+    .linkedin:hover {
+      filter: contrast(200%) brightness(40%);
+    }
+    
+    /* MAIN CONTENT OF WEBPAGE STARTS HERE */
+    
+    body {
+      background: url('https://i.ibb.co/tZPVcfz/Adobe-Stock-214418650-1750x700copy.png');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: 0% 5%;
+    }
+    
+    
+    /* Hero Style Start */
+    .intro {
+      height: 600px;
+      position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding-left: 250px;
+      padding-right: 150px;
+      padding-top: 100px;
+      color: #ffffff;
+      text-align: justify;
+    }
+  
+    .intro img {
+      border-radius: 0%;
+      display: inline-block;
+      margin-right: 10px;
+      margin-bottom: 100px;
+      padding-left: 10px;
+      padding-top: 100px;
+    }
+    
+    p {
+      font: monospace;
+      color: #ffffff;
+      text-align: justify;
+    }
+    
+    
+    .intro p {
+      line-height: 1.7;
+      color: #ffffff;
+      width: 80%;
+      font-weight: lighter;
+      font-size: 16px;
+      margin: 100 100;
+      text-align: justify;
+    }
+  
+    /* Hero Style end */
+  
+  section {
+    padding: 60px;
+  }
+  
+  /* <uniquifier>: Use a unique and descriptive class name
+     <weight>: Use a value from 100 to 900 */
+  
+  h2 {
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 150;
+    font-style: normal;
+  
+  }
+  
+  .section-title {
+    font-family: monospace;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    color: #ffffff;
+  }
+  
+    .blog-posts {
+      text-align: center;
+      color: #ffffff;
+    }
+    
+    .blog-post {
+      width: 100%;
+      margin-top: 0px;
+      margin-bottom: 10px;
+      margin-right: 0px;
+      margin-left: 0px;
+      background: #52729F;
+      overflow: auto;
+    }
+    
+    .blog-post img {
+      height: 300px;
+      width: 40%;
+      float: left;
+    }
+    
+    .blog {
+      padding: 45px;
+      float: left;
+      width: 60%;
+      text-align: left;
+    
+    }
+    
+    .blog h3 {
+      font-weight: bold;
+      font-family: monospace;
+      font-size: 32px;
+      margin-bottom: 8px;
+    }
+    
+    .blog h4 {
+      font-weight: lighter;
+      font-size: 24px;
+      margin-top: 25px;
+      margin-bottom: 25px;
+    }
+    
+    .blog p {
+      font-weight: lighter;
+      font-size: 17px;
+      line-height: 1.3;
+    }
+    
+  
