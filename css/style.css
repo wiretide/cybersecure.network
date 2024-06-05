@@ -144,9 +144,9 @@
   
   }
   
-  .section-title {
+  .section-title h2 {
     font-family: Quicksand, monospace;
-    font-size: 24px;
+    font-size: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
     display: inline-block;
