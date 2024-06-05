@@ -16,7 +16,7 @@
     height: 100px;
     background-color: #52729F;
   }
-  c
+
   .logo {
      padding: 0px;
     }
@@ -32,6 +32,7 @@
   }
   
   header a {
+    font-family: Quicksand, sans-serif;
     text-decoration: none;
     color: #ffffff;
   }
@@ -81,6 +82,7 @@
       background-size: contain;
       background-repeat: no-repeat;
       background-position: 0% 5%;
+        max-width: 20em;
     }
     
     
