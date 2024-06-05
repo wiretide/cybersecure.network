@@ -23,7 +23,7 @@
   
   
   header h1 {
-    font-family: monospace;
+    font-family: Quicksand, monospace;
     font-weight: normal;
     font-size: 28px;
     color: #B2EBF9;
@@ -78,7 +78,7 @@
     /* MAIN CONTENT OF WEBPAGE STARTS HERE */
     
     body {
-      background-image: url(images/Adobe-Stock-353280822.png);
+      background-image: url(Adobe-Stock-353280822.png);
       background-size: contain;
       background-repeat: no-repeat;
       background-position: 0% 5%;
