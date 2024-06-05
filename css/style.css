@@ -108,8 +108,11 @@
     
     p {
       font-family: Quicksand, monospace;
-      color: #ffffff;
-      text-align: justify;
+      font-weight: normal;
+      font-size: 28px;
+      color: #B2EBF9;
+      margin: 25px;
+      display: inline; 
     }
     
     
