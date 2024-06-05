@@ -107,14 +107,14 @@
     }
     
     p {
-      font: monospace;
+      font-family: Quicksand, monospace;
       color: #ffffff;
       text-align: justify;
     }
     
     
     .intro p {
-      font: Quicksand, monospace;
+      font-family: Quicksand, monospace;
       line-height: 1.7;
       color: #ffffff;
       width: 80%;
@@ -194,6 +194,7 @@
     }
     
     .blog p {
+      font-family: Quicksand, monospace;
       font-weight: lighter;
       font-size: 17px;
       line-height: 1.3;
