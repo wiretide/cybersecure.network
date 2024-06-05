@@ -109,7 +109,7 @@
     p {
       font-family: Quicksand, monospace;
       font-weight: normal;
-      font-size: 12px;
+      font-size: 16px;
       color: #B2EBF9;
       margin: 25px;
       display: inline; 
@@ -122,7 +122,7 @@
       color: #ffffff;
       width: 80%;
       font-weight: lighter;
-      font-size: 12px;
+      font-size: 16px;
       margin: 100 100;
       text-align: justify;
     }
@@ -154,7 +154,7 @@
   }
   .section-title p {
     font-family: Quicksand, monospace;
-    font-size: 12px;
+    font-size: 16px;
     margin-top: 20px;
     margin-bottom: 20px;
     display: inline-block;
@@ -206,7 +206,7 @@
     .blog p {
       font-family: Quicksand, monospace;
       font-weight: lighter;
-      font-size: 17px;
+      font-size: 16px;
       line-height: 1.3;
     }
     
