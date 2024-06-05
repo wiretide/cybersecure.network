@@ -99,7 +99,7 @@
   
     .intro img {
       border-radius: 0%;
-      display: ;
+      float: left;
       margin-right: 10px;
       margin-bottom: 100px;
       padding-left: 10px;
