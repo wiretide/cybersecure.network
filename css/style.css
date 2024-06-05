@@ -115,6 +115,7 @@
     
     
     .intro p {
+      font: Quicksand, monospace;
       line-height: 1.7;
       color: #ffffff;
       width: 80%;
