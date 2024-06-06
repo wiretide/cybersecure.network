@@ -61,6 +61,11 @@
   .sidebar a{
     width: 100%;
   }
+  @media(max-width: 800px){
+    .hideOnMobile{
+      display:none;
+    }
+  }
 
   
   
