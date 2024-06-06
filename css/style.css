@@ -11,6 +11,7 @@
     background-position: center;
     font-family: Quicksand, sans-serif;
   }
+   /* apply styles to <header> */
   nav {
     background-color:#52729F;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
@@ -49,70 +50,7 @@
   }
   
   
-  /* apply styles to <header> */
-  header {
-    padding: 35px;
-    background-color: #52729F;
-  }
 
-  .logo {
-     padding: 0px;
-    }
-  
-  
-  header h1 {
-    font-family: Quicksand, monospace;
-    font-weight: normal;
-    font-size: 28px;
-    color: #B2EBF9;
-    margin: 25px;
-    display: inline;  
-  }
-  
-  header a {
-    font-family: Quicksand, sans-serif;
-    text-decoration: none;
-    color: #ffffff;
-  }
-  
-  .button {
-    background-color: #082D49;
-    font-family: monospace;
-    color: white;
-    padding: 10px 15px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 20px;
-    cursor: pointer;
-    border-radius: 5px;
-    }
-  
-    .button:hover {
-      background-color: #031119;
-      font-family: monospace;
-      color: white;
-      padding: 15px 15px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 20px;
-      cursor: pointer;
-      border-radius: 50px;
-      margin-left: 650px;
-    }
-    
-    .linkedin {
-      position: absolute;
-      cursor: pointer;
-      margin-left: 70px;
-      margin-top: 3px;
-    }
-    
-    .linkedin:hover {
-      filter: contrast(200%) brightness(40%);
-    }
-    
     /* MAIN CONTENT OF WEBPAGE STARTS HERE */
     
     /* Hero Style Start */
