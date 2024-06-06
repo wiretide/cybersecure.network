@@ -90,6 +90,11 @@
     /* MAIN CONTENT OF WEBPAGE STARTS HERE */
     
     /* Hero Style Start */
+    .logo {
+      float: center;
+    }
+
+
     .intro {
       height: 10px;
       position: center;
@@ -102,13 +107,13 @@
       text-align: justify;
     }
   
-    .intro img {
+    .logo {
       border-radius: 0%;
       float: left;
       margin-right: 10px;
-      margin-bottom: 100px;
-      padding-left: 10px;
-      padding-top: 100px;
+      margin-bottom: 10px;
+      padding-left: 50px;
+      padding-top: 50px;
     }
     
     p {
