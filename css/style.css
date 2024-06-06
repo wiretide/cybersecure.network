@@ -3,6 +3,44 @@
     padding: 0;
     box-sizing: border-box;
   }
+  body {
+    min-height: 100vh;
+    background-image: url(images/Adobe-Stock-353280822.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Quicksand, sans-serif;
+  }
+  nav {
+    background-color:#52729F;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+  }
+  nav ul{
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  nav li{
+    height: 50px;
+  }
+  nav a{ 
+    height: 100%;
+    padding: 0 30px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: white;
+  }
+  nav a:hover{
+    background-color: #f0f0f0;
+  }
+  nav li:first-child{
+    margin-right: auto;
+  }
+
+  
   
   a {
     text-decoration: none;
@@ -77,10 +115,6 @@
     
     /* MAIN CONTENT OF WEBPAGE STARTS HERE */
     
-    body {
-    }
-    
-    
     /* Hero Style Start */
     .intro {
       height: 600px;
@@ -108,8 +142,7 @@
       font-weight: normal;
       font-size: 16px;
       color: #B2EBF9;
-      margin: 25px;
-      display: ; 
+      margin: 25px; 
     }
     
     
