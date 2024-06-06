@@ -5,7 +5,7 @@
   }
   body {
     min-height: 100vh;
-    background-image: url("/workspaces/cybersecure.network/images/Adobe-Stock-353280822.png");
+    background-image: url(/images/Adobe-Stock-353280822.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
