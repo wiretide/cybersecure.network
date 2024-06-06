@@ -50,7 +50,7 @@
     background-color: rgba(82, 114, 159, 0.2);
     background-filter: blur(10p);
     box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
-    display: flex;
+    display: none;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
