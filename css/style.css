@@ -14,7 +14,7 @@
    /* apply styles to <header> */
   nav {
     background-color:#52729F;
-   /* box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);*/
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
   }
   nav ul{
     width: 100%;
